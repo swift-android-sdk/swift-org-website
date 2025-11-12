@@ -25,7 +25,7 @@ support for generating such JNI bindings for you](/blog/gsoc-2025-showcase-swift
 comes in. Please watch its author Mads Odgaard's [Server-Side Swift Conference talk from last month](https://www.youtube.com/watch?v=tOH6V1IvTAc)
 and try out the tool for yourself with [this example Android app that he put together](https://github.com/swiftlang/swift-android-examples/tree/main/hello-swift-java).
 
-- Should we add a paragraph talking about [the new #available features just added in trunk](https://forums.swift.org/t/getting-started-with-the-android-swift-sdk/80834/12)?
+- Should we add another paragraph talking about [the new #available features just added in trunk](https://forums.swift.org/t/getting-started-with-the-android-swift-sdk/80834/12)?
 
 Swift on Android [first got started as soon as the language was open-sourced a decade ago](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20151207/000171.html),
 but it is by no means done. [The Android project board lists areas we are working on](https://github.com/orgs/swiftlang/projects/17)
